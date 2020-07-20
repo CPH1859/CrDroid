@@ -1,4 +1,4 @@
-# Pixel Experience and Pixel Experience Plus
+# CrDroid And Lineage X Device Tree
 Device Tree for Realme 1. The 3GB variant has codename CPH1861 whereas the 4/6GB variants have codename CPH1859.
 
 **Working**:
@@ -23,14 +23,13 @@ Device Tree for Realme 1. The 3GB variant has codename CPH1861 whereas the 4/6GB
 1. Selinux is permissive.
 2. Video codec issue in all Chromium based browsers (minimal).
 3. VoLTE.
-4. No face Unlock.
 5. Inbuilt Screen Recorder.
 
 ## Downloads
 
-https://sourceforge.net/projects/realme1/files/Pixel_Experience/
+https://sourceforge.net/projects/realme1/files/
 
-https://sourceforge.net/projects/realme1/files/Pixel_Experience_Plus/
+https://sourceforge.net/projects/realme1/files/
 
 ### Spec Sheet
 Feature | Specification
