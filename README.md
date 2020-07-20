@@ -1,4 +1,4 @@
-# CrDroid And Lineage X Device Tree
+# CrDroid Device Tree
 Device Tree for Realme 1. The 3GB variant has codename CPH1861 whereas the 4/6GB variants have codename CPH1859.
 
 **Working**:
